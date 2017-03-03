@@ -32,6 +32,7 @@ content_position: widget
 content_display_fixed: true
 widgets:
 - social
+- wechat
 - weibo
 - post_content
 - category
