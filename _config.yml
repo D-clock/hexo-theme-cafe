@@ -80,11 +80,11 @@ favicon: /favicon.png
 # 关闭统一为 false
 # 若使用多说，此处填写的是多说评论账号ID
 ## 网易云跟帖
-gentie_productKey: e2fb4051c49842688ce669e634bc983f 
+gentie_productKey: e07e8500660049b186077b9c3b95b8a8
 ## 多说 （2017年6月将关闭）
 duoshuo_shortname: false 
 ## disqus
-disqus_shortname: http-blog-coderclock-com
+disqus_shortname: false # http-blog-coderclock-com
 
 google_plus:
 fb_admins:
