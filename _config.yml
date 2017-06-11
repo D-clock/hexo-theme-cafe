@@ -44,10 +44,10 @@ widgets:
 - post_content
 - recent_posts
 - category
-- tagcloud
+#- tagcloud
 #- lastest_comments
 #- hot_comment_posts
-- archive
+#- archive
 - friendly_link
 - wechat
 
